@@ -1,0 +1,8 @@
+C:\Users\Uday\OneDrive\Desktop\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Uday\OneDrive\Desktop\Serialization\bin\Debug\Serialization.exe
+C:\Users\Uday\OneDrive\Desktop\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Uday\OneDrive\Desktop\Serialization\obj\Debug\Serialization.csproj.AssemblyReference.cache
+C:\Users\Uday\OneDrive\Desktop\Serialization\obj\Debug\Serialization.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\OneDrive\Desktop\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Uday\OneDrive\Desktop\Serialization\obj\Debug\Serialization.exe
+C:\Users\Uday\OneDrive\Desktop\Serialization\obj\Debug\Serialization.pdb
